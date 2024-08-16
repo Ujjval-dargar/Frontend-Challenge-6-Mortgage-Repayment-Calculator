@@ -11,8 +11,8 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mortgage-repayment-calculator-using-jquery-bootstrap-media-query-0baLXajNgi)
+- Live Site URL: [Mortgage Repayment Calculator](https://ujjval-dargar.github.io/Frontend-Challenge-6-Mortgage-Repayment-Calculator/)
 
 
 ### Built with
